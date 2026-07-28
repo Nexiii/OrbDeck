@@ -1,0 +1,13 @@
+{
+    "version":  "0.12.0-beta",
+    "notes":  "OrbDeck 0.12.0-beta",
+    "pub_date":  "2026-07-28T20:18:35Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeHk1aCtHaDZ0TkIvdmE4MVJKRll0UmJqUnpENHM0RW5FZy9BQmVkQTJZcHFraHhWcmdCY3hvNWhieHlob0NGcHQyQjhjZ0tWTUZrdVIyV3lMVTg3ckV0MURmQXB3OVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MjY4Njc1CWZpbGU6T3JiRGVja18wLjEyLjAtYmV0YV94NjQtc2V0dXAuZXhlCmQwcjlMMUJGUG1NbmlTdUlNQW0yRk5yVEI3VXVUWmV1aTJvNThtOURhcTE5SFVCUXJUMWVpUm1EVzdPZ1dVeGQ5SnB1b00zSnVsVlFzREZQNFhYV0FnPT0K",
+                                             "url":  "https://github.com/Nexiii/OrbDeck/releases/download/v0.12.0-beta/OrbDeck_0.12.0-beta_x64-setup.exe",
+                                             "sha256":  "45D7A009F0A7B1E99B791E4288D431CCF023D2F8DAD9DA475E86A65C3A1D20EC",
+                                             "size":  5142070
+                                         }
+                  }
+}
